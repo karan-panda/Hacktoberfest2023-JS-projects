@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+
+### Name: [Karan Panda](https://github.com/karan-panda)
+
+- Place: Mumbai, Maharashtra, India
+- Bio: Engineering student in IT Department
+- GitHub: [karan-panda](https://github.com/karan-panda)
